@@ -2,7 +2,7 @@
   
   ## Hello Pessoas !
   
-  ### Me chamo Julio, sou engenheiro civil e atualmente me transferindo para a área da técnologia !
+  ### Me chamo Julio, sou engenheiro civil e atualmente me transferindo para a área da tecnologia !
   
   ##
  
